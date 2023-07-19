@@ -5,7 +5,7 @@ A simple Pytorch implement of "WAFFLE: Watermarking in Federated Learning" at 20
 
 Our code successfully runs in Python 3.8.12 environment with torch==1.10.1, torchvision==0.11.2, numpy==1.21.5 and matplotlib==3.5.1. Make sure you meet these requirements before running the code.
 
-## Running Code
+## Running the Code
 
 Configure number clients and rounds as arguments. We only support clients=2, 3 or 6. And 10 to 20 rounds is already enough for our code. Here are some example commands to run the code.
 
