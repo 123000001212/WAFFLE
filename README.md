@@ -30,3 +30,12 @@ The code will print out lots of accuracy values. As shown in the example below, 
 Accuracy of model in test set is: 0.990600 -> Test Accuracy
 ```
 
+Finally, the code will print both Clean Test set Accuracy and Watermark Accuracy after the last round. 
+
+```
+-- Task Acc --
+Accuracy of model in test set is: 0.991000
+-- WaterMark Acc --
+Accuracy of model in test set is: 0.990000
+```
+
